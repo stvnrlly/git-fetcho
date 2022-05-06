@@ -1,3 +1,4 @@
 #! /usr/bin/env bash
 
-echo "stop trying to make fetcho happen"
+echo "you did it! you made fetcho happen!"
+git fetch origin
